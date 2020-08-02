@@ -5,4 +5,12 @@ class App {
    constructor() {
       this.server = express();
    }
+
+   middlewares() {
+
+   }
+
+   routes() {
+
+   }
 }

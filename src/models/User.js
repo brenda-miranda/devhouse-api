@@ -1,5 +1,3 @@
-const { Schema } = require("mongoose");
-
 import { Schema, model } from 'mongoose';
 
 const UserSchema = new Schema({
